@@ -37,7 +37,7 @@ No client-side scripting (JavaScript) is required for image processing or render
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 ### 1. System Dependencies
 
