@@ -99,7 +99,7 @@ go-ocr-app/
 ### 1. Clone the Repo (or create the structure)
 
 ```bash
-git clone [https://github.com/N-jangra/ocr.git](https://github.com/N-Jangra/img-ocr)
+git clone https://github.com/N-Jangra/img-ocr
 cd img-ocr
 ```
 
